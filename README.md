@@ -26,8 +26,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Huzaifa829&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://www.reddit.com/r/ProgrammerHumor/?rdt=53416' style="height: 400px;"/>
+<!-- 😂 Random Dev Meme -->
+<a href="https://randommeme-five.vercel.app/" target="_blank">
+  <img src="https://picsum.photos/400/300?random=1" alt="Developer Meme" style="height: 400px;" />
+</a>
+"/>
 
 ---
 
