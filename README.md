@@ -27,7 +27,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Huzaifa829&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://meme-api.herokuapp.com/gimme' style="height: 400px;"/>
+<img src='https://www.reddit.com/r/ProgrammerHumor/?rdt=53416' style="height: 400px;"/>
 
 ---
 
