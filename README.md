@@ -30,7 +30,6 @@
 <a href="https://randommeme-five.vercel.app/" target="_blank">
   <img src="https://picsum.photos/400/300?random=1" alt="Developer Meme" style="height: 400px;" />
 </a>
-"/>
 
 ---
 
