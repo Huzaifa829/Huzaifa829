@@ -10,6 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Huzaifa829&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa829&theme=graywhite&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa829&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Huzaifa829&limit=5&theme=flat&combine_all_yearly_contributions=true)
@@ -19,5 +20,15 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Huzaifa829&icon=3&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Huzaifa829&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='[https://randommeme-five.vercel.app/](https://meme-api.herokuapp.com/gimme)' style="height: 400px;"/>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
